@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 22, 2019, 11:54:16 AM
+    Author     : webdip_8
+*/
+
+@media only screen and (max-width: 460px){
+    body{
+        background: black;
+    }
+
+    #artikli{
+        margin-left: 80px;
+    }
+
+    #forme{
+        margin-left: 80px;
+
+    }
+
+    label{
+        font-size: smaller;
+    }
+
+    .tablica4{
+        display: none;
+    }
+    .tablica5{
+        display: none;
+    }
+    .tablica6{
+        display: none;
+    }
+    .tablica7{
+        display: none;
+    }
+    .tablica8{
+        display: none;
+    }
+
+    .kutija img, video, iframe {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 120px;
+        height: 67.5px;
+    }
+
+    table, th, td {
+        border: 1px solid white;
+    }
+
+}

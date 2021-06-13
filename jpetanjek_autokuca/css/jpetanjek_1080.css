@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24.03.2019., 20:05:11
+    Author     : Josip
+*/
+
+@media only screen and (min-width:  721px) and (max-width: 1080px) {
+    body{
+        background: #a0a0a0;
+    }
+
+    #srednji{
+        clear: none;
+    }
+
+    #artikli{
+        margin-left: 90px;
+    }
+
+    #forme{
+        margin-left: 80px;
+    }
+
+    label{
+        font-size:medium;
+    }
+
+    .kutija img, video, iframe {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 420px;
+        height: 236.25px;
+    }
+}
